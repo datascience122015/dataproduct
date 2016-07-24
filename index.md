@@ -82,6 +82,11 @@ To show information to the user there's two sections available. The first one wi
 ===
 Shiny App
 ===
+
+```
+## Warning: package 'shiny' was built under R version 3.3.1
+```
+
 <!--html_preserve--><div class="shiny-input-panel">
 <div class="shiny-flow-layout">
 <div>
